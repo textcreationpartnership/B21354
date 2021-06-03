@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dreadful warning to lewd livers: or, God's revenge against drunkards, swearers, whoremongers, blasphemers, and prophaners of the Lords Day. In about 24 examples of strange judgements immediately inflicted on such notorious sinners, enough to make the ears to tingle, and their hearts to ake that read and consider them containing, 20 visible judgements against drunkards, 11 upon swearers and cursers. 5 remarkable examples of Gods wrath upon whoremongers and adulterers. And 6 against prophaners of the Lords Day. VVith divers seasonable admonitions to avoid these several crying sins, which threaten all that follow them with destruction, both in this world, and that to come. Our God is a consuming fire. / By Mr. Baxter.</title>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21354</idno><idno type="EEBO-CITATION">99885384</idno>
+  <idno type="VID">201322</idno>
+  <idno type="EEBO-PROQUEST">2240888608</idno>
+  
+            <idno type="STC">Wing D2155</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.22[47]</idno>
+            <idno type="STC">ESTC R222968</idno>
+            <idno type="PROQUEST">ocm99885384</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885384e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21354)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201322)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B2:1[58])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dreadful warning to lewd livers: or, God's revenge against drunkards, swearers, whoremongers, blasphemers, and prophaners of the Lords Day. In about 24 examples of strange judgements immediately inflicted on such notorious sinners, enough to make the ears to tingle, and their hearts to ake that read and consider them containing, 20 visible judgements against drunkards, 11 upon swearers and cursers. 5 remarkable examples of Gods wrath upon whoremongers and adulterers. And 6 against prophaners of the Lords Day. VVith divers seasonable admonitions to avoid these several crying sins, which threaten all that follow them with destruction, both in this world, and that to come. Our God is a consuming fire. / By Mr. Baxter.</title>
+                  <author>Baxter, Richard, 1615-1691.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.). ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby, at the Golden-Ball, near the Hospital-Gate, in West-smithfield,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1682?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Sometimes attributed to Richard Baxter; BMC call this "A suppostitious work."</note>
+                  <note>Imprint from colophon; place and date of publication from Wing.</note>
+                  <note>Printed in three columns.</note>
+                  <note>The words "20 visible ... and cursers." are gathered by braces; the words "VVith divers ... and that to come." are gathered by a left brace.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Vices --  Early works to 1800.</term>
+               <term type="topical_term">Judgment of God --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advice">
+            <pb facs="tcp:201322:1"/>
+            <head>A Dreadful WARNING to Lewd Livers: OR, GOD'S Revenge against <hi>Drunkards, Swearers, Whoremongers, Blasphemers,</hi> and Prophaners of the Lords Day.</head>
+            <head type="sub">In about 24 Examples of strange Judgements immediately inflicted on such notorious Sinners, enough to make the ears to tingle, and their hearts to ake that Read and consider them Containing,
+<list>
+                  <item>20 Visible Judgements against Drunkards,</item>
+                  <item>11 Ʋpon Swearers and Cursers.</item>
+                  <item>5 Remarkable Examples of Gods Wrath upon Whoremongers and Adulterers.</item>
+                  <item>And 6 against Prophaners of the Lords Day.</item>
+               </list> VVith divers Seasonable admonitions to avoid these se<g ref="char:EOLhyphen"/>veral crying Sins, which Threaten all that follow them with destruction, both in this world, and that to come.</head>
+            <epigraph>
+               <q>
+                  <p>Our God is a Consuming Fire.</p>
+               </q>
+            </epigraph>
+            <byline>By Mr. <hi>BAXTER.</hi>
+            </byline>
+            <head type="illustration">
+               <figure>
+                  <figDesc>depiction of devil attending a drinking scene</figDesc>
+               </figure>
+            </head>
+            <div type="introduction">
+               <p>THose horrid and crying sins of drunkenness, Unclean<g ref="char:EOLhyphen"/>ness, Swearing, and Blaspheming of Gods Holy Name, being in this debauched Age become so com<g ref="char:EOLhyphen"/>mon, it is thought fit to publish this sheet, to warn and deter (if possible) all that read or hear the same, from such abomi<g ref="char:EOLhyphen"/>nable courses, by setting before them not only the plain com<g ref="char:EOLhyphen"/>mands and threatnings of God in his Holy Word against the same, but also several most true and remarkable Examples, shewing how the Justice of Heaven has often, even in this Life, executed terrible Vengeance on such Impenitent sinners, and that suddenly and visibly in the height of their Wicked<g ref="char:EOLhyphen"/>ness; faithfully collected from approved Histories, and Au<g ref="char:EOLhyphen"/>thentick Information.</p>
+            </div>
+            <div type="part">
+               <p>Drunkenness though it be a most odious Vice, yet some men make it as it were their whole business and occupation, not only masking it under the Title of Good-fellowship, Merry-making and the like, but glorying therein, and ready to reproach all those that out of Conscience and Charity to their Souls reproves them for it, or warn them against it: But hear what God saith of such Wretches in Scripture, <hi>Joel</hi> 15. <hi>Awake ye Drunkards Weep and Howl all ye Drinkers of Wine,</hi> Isai. 5.11. <hi>Woe unto them that rise up early in the morning that they may follow strong drink, that continue until night, till Wine inflame them,</hi> Habak. 2.15. <hi>Woe unto him that giveth his Neighbour Drink that puttest thy Bottle to him, and makest him Drunk, that thou mayest look on their nakedness.</hi> Oh! consider this all you that pride your selves in your drunken Victories, and think you cannot make your Friends welcome at your houses or entertainments, unless by these cursed means of forcing full Cups, drinking healths, <hi>&amp;c.</hi> you damn their Souls and your own; for so God expresly declares, that <hi>Drunken<g ref="char:EOLhyphen"/>ness shall not inherit the Kingdom of Heaven,</hi> 1 Cor. 6.9, 10. Gal. 21. and divers other places; and how knowest thou, O besotted Swine, but the next time thou art swilling in the midst of thy Cups and Jolity, thou mayest be cut off in the very act, and cast into Eternal flames; for so God to manifest his Indignation against this beastly sin, hath often poured forth his Vengeance on persons guilty of it, as by the following real Histories may appear.</p>
+               <p n="1">1. On the third of <hi>August,</hi> a Butcher of <hi>Godmanchester</hi> in <hi>Huntington-shire,</hi> an accustomed Drunkard having taken his Cups to excess, was desired by a Neighbour to unpitch a load of Hay, but being in that condition, let his Pitchfork slip out of his hand, and grasping after it fell down, with his head fore<g ref="char:EOLhyphen"/>most, on the Fork-Tines, which happened to stand upwards against the Cart; wherewith he was struck to the heart, and immediately died.</p>
+               <p n="2">2. In the year 1667. a Clothier near <hi>Cowden,</hi> in the County of <hi>Kent,</hi> continuing drinking five or six days and nights toge<g ref="char:EOLhyphen"/>ther, the heat of the Liquor inflaming his Brain, he fell at last absolutely distracted, and so remained above a twelve month, and at last dyed.</p>
+               <p n="3">3. A Coachman commonly addicted to Swearing and drunk<g ref="char:EOLhyphen"/>enness, made himself so drunk on the Lords day, that he tum<g ref="char:EOLhyphen"/>bled out of the Coach-Box, and was trampled to death by the Horses.</p>
+               <p n="4">4. Very remarkable is that which I have heard attested by a Godly Minister for a certain truth, happening in <hi>Cleaveland</hi> in <hi>York-shire,</hi> in <hi>Aug.</hi> 1672. where four or five notorious drunk<g ref="char:EOLhyphen"/>ards being met at a blind Ale-house, continued there two days and nights, and were all exceeding Drunk, scarce any of them able to go or speak; on a sudden a mighty Tempest arose, and a Thunderbolts (as 'tis supposed) beat down part of the House where they were, and killed two of them outright, and the woman of the house, who was found in an obscene posture with one of them, outright, and the rest were sorely bruised and wounded.</p>
+               <p n="5">5. It was but in <hi>May</hi> 1674. that a person keeping Paper-Mills near <hi>Thi<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>eworth</hi> in <hi>Middlesex,</hi> too frequently besotted with this Swinish Vice, being very drunk when he came home, getting into the Mill, was in that sad condition knockt on the head by one of the Hammers, as he unadvisedly went to tam<g ref="char:EOLhyphen"/>per therewith.</p>
+               <p n="6">6. A common drunkard near <hi>Bath,</hi> was drowned in a shallow Brook, or puddle of water, into which he fell off from his horse by reason of his drink.</p>
+               <p n="7">7. Another I my self knew, near <hi>Tunbridge</hi> in <hi>Kent,</hi> who be<g ref="char:EOLhyphen"/>ing much disguis'd in Drink, would needs go home in the E<g ref="char:EOLhyphen"/>vening, contrary to his Friends perswasions; but passing over a narrow Bridge, reeled over, and was drown'd in the River.</p>
+               <p n="8">8. A Gentleman near <hi>Acteon,</hi> being overtaken in Drink, fell from his Horse, and was sorely bruised that he immediate<g ref="char:EOLhyphen"/>ly dyed</p>
+               <p n="9">9. Another at <hi>Tenby</hi> in <hi>Pembrook-shire,</hi> in his drink fell from a mighty steep Rock of vast height, and was miserably dasht in pieces.</p>
+               <p n="10">10. At <hi>Resgrow</hi> near <hi>Ipswich,</hi> some years since, three Servant-men after hard drinking, prepared to be gone, the Hostis to intice them to stay, told them they should only drink three <hi>Outs</hi> first; <hi>viz,</hi> Wit out of their heads, Money out of their Pockets, and the Drink out of the Barrel: But this Factress for the Devil was immediately met with by divine vengeance, for as she was coming to them, with a pot in her hand, God suddenly struck her sick and speechless, her tongue also swell<g ref="char:EOLhyphen"/>ing in her head; nor did she ever speak word more, but dyed three days after.</p>
+               <p n="11">11. A Credible Author relates the dreadful example follow<g ref="char:EOLhyphen"/>ing, <hi>February</hi> 8th. A company of debauch'd persons, whose Names are recorded as follows, <hi>John Roysell, Peter Hosdroffe, John Warner, Simon Heamkers, Jacob Hermons, Hermon Frow, George Kepel,</hi> and <hi>Adam Gibens:</hi> These eight drunkards came on the Lords day to a Tavern kept by one <hi>Anthony Hodge,</hi> an honest Godly man, where they call for several sorts of Wine; but the good man refused to sell them any on that day, ad<g ref="char:EOLhyphen"/>vising them rather to go to Church and hear the word of God; but they all save <hi>Adam Gibens</hi> refused, and swearing and cur<g ref="char:EOLhyphen"/>sing at him, and wishing the Devil might break their necks if they went from thence till they had some Wine: However the Vintner left them in the street, and went to Church, and immediately out of the next house, which was uninhabited, the Devil in the likeness of a young man appeared unto them with a Flaggon of Wine in his hand, invites them in, saying; <hi>Sirs, be merry, you shall have Wine enough, you seem Good fellows, and I hope you will pay me well:</hi> They answered with horrible oaths, <hi>That they would either pay him or ingage their necks for it, yea rather then fail, their Bodies and Souls.</hi> Thus they continued drinking and swilling till they could hardly see each other, when on a sudden their Host appearing in a most frightful shape, told them, they must now pay for all, and drink Fire and Brimstone with him in Hell for evermore: And there<g ref="char:EOLhyphen"/>upon brake all their necks upon the place. Thus ended these Drunken Wretches their miserable days, which should be a Caveat to all drunkards for ever, to avoid the like wickedness.</p>
+               <p n="12">12. A person in <hi>Bedford-shire,</hi> about six years ago, striving to empty his overcharged stomach of the Liquors he had exces<g ref="char:EOLhyphen"/>sively drunken, broke a vein with straining, and died within few hours after.</p>
+               <p n="13">13. Two Gentlemen coming lamentable Drunk out of a Tavern, one of them drew his Sword, and swore he would kill his Companion, which after some passes he did, and was after<g ref="char:EOLhyphen"/>wards hanged for the same. Thus these two persons by the occasion of drunkenness lost their lives, and without infinite mercy their Souls: and yet you foolishly say, <hi>Drunken men never catch harm.</hi>
+               </p>
+               <p n="14">14. A Butcher in <hi>Hastingfield</hi> having heard the Minister of the place setting forth the wickedness and danger of the sin of drunkenness, was no sooner from the Sermon, but in an Ale-house, and in his Cups drolling at the Ministers Reproofs and Exhortation; but in the very prophane act, Gods hand fell upon him; for the drink stopping in his Throat, choaked him, so that immediately he gave up the Ghost.</p>
+               <p n="15">15. A person in <hi>Newmarket,</hi> without <hi>Temple-bar,</hi> continued drinking of Brandy so long, till at last he fell down stone-dead in the place: but instances of the murders committed by this mischievous Liquor are so frequent, that scarce any can be ignorant of its destructive qualities, inflameing the Blood; drying up the Radical moisture, <hi>&amp;c.</hi> So that none that use it immoderately, as too many do, can in a natural way expect to live long; and therefore if they will not be warned to leave it, may justly be accounted self-murtherers.</p>
+               <p n="16">16. A Woman, few miles from <hi>London,</hi> having a young Child of her own, and another that she Nurs'd, got very drunk, and in that swinish condition overlaid and kill'd them both, for which she very narrowly scaped hanging; but at last got a Reprieve, because there did not appear any murderous intention: But how she will answer it in the Court of Hea<g ref="char:EOLhyphen"/>ven, since she had before hand wilfully drown'd her reason and senses, she ought with repentance to consider: And indeed 'tis sad to see how many of this Sex begin to be addicted to this vice, which is odious in man, but most abominable, beyond all expressions in a Woman.</p>
+               <p n="17">17. <hi>Heidfeldius,</hi> a Learned Reverend Minister in his Book entituled <hi>Sphinx,</hi> relates for a truth, that a company sitting long at a Tavern, growing a little hot-heated, began to be very full of discourse, and amongst other things, whether there were any future state after this life: whereupon one of them said, <hi>Come, come, 'tis a Cheat of the Parsons that tell us the Soul lives after the Body; if the Body be once dead and rotten, the Soul may go pick straws.</hi> At which bold prophane saying all the rest fell a laughing, and a strange man comes into their company, calls for Wine, and askt what they were talking of? Of souls, saith the same drunken Athiest, and if I could get any body to buy mine, I would afford a good penny-worth, and spend the price of it for the good of the Company: which set them all in a greater fit of profane mirth: But the stranger reply'd he wanted such a Commodity, and desired to know what he would have for it, so much, said the other; 'tis done, and the money paid down; they drank merrily, but towards night the Buyer said 'twas time for every one to go home; but pray Gentlemen tell me before we part, if a man buy a Horse brid<g ref="char:EOLhyphen"/>led and saddled, shall he not have the Bridle and Saddle into the bargain: They all cry'd yes: whereupon he snatches up the profane wretch that had made the bargain with him, and carries him from the midst of them, Soul and Body into Hell; Thus, though not so expresly, yet really and in effect do all wicked people sell their Souls to the Devil, and have only the contemptible price of temporal pleasures paid them for their invaluable Jewels.</p>
+            </div>
+            <div type="part">
+               <head>Judgements against <hi>Swearers, Cursers,</hi> &amp; <hi>Blasphemers.</hi>
+               </head>
+               <p>SWearing and Cursing are sins that are (by I know not what charms of Satan) grown into a fashion amongst us: people fancy there is <hi>aliquid ornativum,</hi> something of gallantry in it, and these graceless dishonourings of Gods holy Name, adds a kind of grace to their speech; but it is to be remember<g ref="char:EOLhyphen"/>ed, that when we shall appear before Gods Judgement-seat, it will be no excuse to say it was the fashion so to do, when con<g ref="char:EOLhyphen"/>science flyes in thy face, and tells thee to the contrary; there<g ref="char:EOLhyphen"/>fore for thy future happiness, repent of all thy sins, and take notice of these examples following.</p>
+               <p n="18">18. A Shoomaker living some years since in <hi>London,</hi> had a wicked custome of swearing that horrid Oath, <hi>By Gods Blood,</hi> one Evening as he was often repeating it, being in a rage for some trifling matter with his Apprentice, his Nose did fall a Bleeding, which by no means could be staunched, so that he bled to death in that sad manner.</p>
+               <p n="19">19. We read in the <hi>German</hi> Chronicles, how a desperate Boy devised new Oaths that were not common in use, a sort of hellish invention, for which many of our Atheistical Gal<g ref="char:EOLhyphen"/>lants much value their wit and parts; but the Lord sent a Canker that eat out his Tongue, the very Instrument where<g ref="char:EOLhyphen"/>with he blasphemed God.</p>
+               <p n="20">20. The like in effect happened to a Butcher in <hi>Kent,</hi> much given to swearing and cursing, an Ulcer grew in his Tongue, incurable by Art, the stench whereof was so great, that none could endure to stand before it: In time it quite consumed his tongue, and he with the anguish of it dyed.</p>
+               <p n="21">21. Some young-men being a ringing in <hi>Glocester-shire,</hi> one of them angry that the rest did not keep Tune, swore most dreadfully, and amongst others, used that most abominable imprecation, <hi>God damn me, mind your business, or I'le not Ring one stroak more;</hi> but no sooner had he uttered those Words, but his hands being intangled in the Rope, he was violently drawn up, and his Brains beat out against the Belfry.</p>
+               <p n="22">22. A Woman at <hi>Exeter,</hi> being with-child, had got a wick<g ref="char:EOLhyphen"/>ed custom to say on every trivial occasion, <hi>Let me perish with what I go with, if such a thing be not so or so:</hi> and behold, when her time was out, and her pains came upon her, she could not any ways be delivered, but both she and the Child perished, according to her wishes.</p>
+               <p n="23">23. A Carter, the other Winter in <hi>Stafford-shire,</hi> riding be<g ref="char:EOLhyphen"/>fore on the Shafts, as he drove the Teem, fell into a horrid fit of swearing and cursing of the poor Cattle, wishing <hi>A Plague of God rot them,</hi> &amp;c. but going in his fury to beat them, acci<g ref="char:EOLhyphen"/>dentally fell down, and the Waggon being heavy loaden, the Wheels run over his Head and Neck, &amp; bruised him to pieces.</p>
+               <p n="24">24. A Blasphemous Jew named <hi>Rabbi Michael,</hi> banquetting a<g ref="char:EOLhyphen"/>mongst his Companions, fell to blaspheming our Saviour Christ, and the blessed Virgin <hi>Mary</hi> his Mother, <hi>&amp;c.</hi> but as he went out of the Room, fell down stairs, and broke his Neck.</p>
+               <p n="25">25. In <hi>April</hi> some Children at <hi>Lambeth-Marsh,</hi> being on the Lords day in the afternoon at play in a Gentlemans house, and having got some drink, a Girl about eleven years old would needs drink a health to the Devil, using these words; <hi>Here's a Health to the Devil, and if he do not come and pledge me, he is a Son of a Whore;</hi> but before their Devilish Health was gone round, something, as they did affirm, did appear to them like a black Bear, which frighted them so, that one of them was not able to speak a word till the next day, and the rest all scar'd almost out of their wits.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>P. Brooksby,</hi> at the Golden-Ball, near the <hi>Hospi<g ref="char:EOLhyphen"/>tal-Gate,</hi> in <hi>West-smithfield.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
